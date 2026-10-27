@@ -1,0 +1,6 @@
+{
+  "name": "Quickcut Kids Editorial & Parent Hub",
+  "description": "The official companion blog for the Quickcut Kids Facebook community, featuring sensory-friendly parenting tips, video highlights, and an interactive parent Q&A forum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
